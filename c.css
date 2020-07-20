@@ -1,0 +1,29 @@
+
+#navb{
+	border-radius:0;
+	border:0;
+}
+
+.col-xs-12{
+	background-color: gray;
+	color:black;
+	font-weight: bold;
+}
+
+#tog{
+	text-align: center;
+}
+p{
+	padding: 5px 10px;
+
+}
+h3{
+	text-align: center;
+}
+
+@media (min-width: 0px) and (max-width: 767px) {
+
+	.col-xs-12{
+		border: 20px solid white;
+   }
+}
